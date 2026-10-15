@@ -10,5 +10,7 @@ namespace MagicVilla
 
         public string? Summary { get; set; }
 
+
+
     }
 }
